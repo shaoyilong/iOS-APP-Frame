@@ -46,11 +46,7 @@
 
     [self creatMainView];
     [self addDDLog];
-    NSLog(@"FFFFFFFFFF");
-    NSLog(@"FFFFFFFFFF");
-    NSLog(@"FFFFFFFFFF");
-    NSLog(@"aaaaaa");
-    NSLog(@"bbbbbbbb");
+   
     
     return YES;
 }
