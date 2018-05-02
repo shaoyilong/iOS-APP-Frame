@@ -22,6 +22,14 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
 
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+
+    
     NSLog(@"wwwwwwwwwww");
     [self creatMainView];
     [self addDDLog];
