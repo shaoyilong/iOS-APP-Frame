@@ -26,6 +26,24 @@
     NSLog(@"FFFFFFFFFF");
     NSLog(@"FFFFFFFFFF");
    
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"AAAAAAAAAA");
+    NSLog(@"zzzzzzzzzz");
+    NSLog(@"sssssssssss");
+    NSLog(@"hhhhhhhhhhhhh");
+
+    
+    
+    
+    NSLog(@"wwwwwwwwwww");
+    NSLog(@"wwwwwwwwwww");
+    NSLog(@"wwwwwwwwwww");
+    NSLog(@"wwwwwwwwwww");
+
     [self creatMainView];
     [self addDDLog];
     NSLog(@"FFFFFFFFFF");
