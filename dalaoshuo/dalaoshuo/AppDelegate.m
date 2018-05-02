@@ -31,6 +31,9 @@
 
     
     NSLog(@"wwwwwwwwwww");
+    NSLog(@"wwwwwwwwwww");
+    NSLog(@"wwwwwwwwwww");
+    NSLog(@"wwwwwwwwwww");
     [self creatMainView];
     [self addDDLog];
     NSLog(@"aaaaaa");
