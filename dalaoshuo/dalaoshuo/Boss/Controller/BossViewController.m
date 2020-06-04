@@ -20,6 +20,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     UILabel *label = [UILabel new];
+    label.backgroundColor = [UIColor redColor];
     [self.view addSubview:label];
 }
 
