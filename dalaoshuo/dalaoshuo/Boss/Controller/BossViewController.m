@@ -26,10 +26,6 @@
     label.font = [UIFont systemFontOfSize:18];
     label.numberOfLines = 0;
     [self.view addSubview:label];
-    
-    
-    UIButton *button = [UIButton new];
-    UIButton *button2 = [UIButton new];
 }
 
 - (void)didReceiveMemoryWarning {
