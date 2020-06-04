@@ -21,6 +21,7 @@
     // Do any additional setup after loading the view.
     UILabel *label = [UILabel new];
     label.backgroundColor = [UIColor redColor];
+    label.font = [UIFont systemFontOfSize:18];
     [self.view addSubview:label];
 }
 
