@@ -22,6 +22,7 @@
     UILabel *label = [UILabel new];
     label.backgroundColor = [UIColor redColor];
     label.font = [UIFont systemFontOfSize:18];
+    label.numberOfLines = 0;
     [self.view addSubview:label];
 }
 
