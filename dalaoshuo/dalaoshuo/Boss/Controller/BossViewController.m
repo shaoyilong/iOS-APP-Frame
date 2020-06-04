@@ -21,6 +21,7 @@
     // Do any additional setup after loading the view.
     UILabel *label = [UILabel new];
     label.frame = CGRectMake(100, 100, 100, 100);
+    label.text = @"1111111";
     [self.view addSubview:label];
 }
 
