@@ -19,6 +19,8 @@
     self.view.backgroundColor = [UIColor grayColor];
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    UILabel *label = [UILabel new];
+    [self.view addSubview:label];
 }
 
 - (void)didReceiveMemoryWarning {
