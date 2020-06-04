@@ -22,6 +22,9 @@
     UILabel *label = [UILabel new];
     label.frame = CGRectMake(100, 100, 100, 100);
     label.text = @"1111111";
+    label.backgroundColor = [UIColor redColor];
+    label.font = [UIFont systemFontOfSize:18];
+    label.numberOfLines = 0;
     [self.view addSubview:label];
 }
 
